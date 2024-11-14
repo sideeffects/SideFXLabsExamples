@@ -1,0 +1,47 @@
+{
+    "Desert": {
+        "Biome Name": "Desert",
+        "Color R": 1.0,
+        "Color G": 0.46399998664855957,
+        "Color B": 0.6783999800682068,
+        "Average Temperature": 20.0,
+        "Average Precipitation": 288.0,
+        "Soil": true
+    },
+    "Savanna": {
+        "Biome Name": "Savanna",
+        "Color R": 0.164000004529953,
+        "Color G": 0.0820000022649765,
+        "Color B": 0.0,
+        "Average Temperature": 25.0,
+        "Average Precipitation": 889.0,
+        "Soil": true
+    },
+    "Temperate_Forest": {
+        "Biome Name": "Temperate_Forest",
+        "Color R": 1.0,
+        "Color G": 0.5109999775886536,
+        "Color B": 0.0,
+        "Average Temperature": 10.0,
+        "Average Precipitation": 1143.0,
+        "Soil": true
+    },
+    "Boreal_Forest": {
+        "Biome Name": "Boreal_Forest",
+        "Color R": 0.0,
+        "Color G": 0.24799999594688416,
+        "Color B": 0.09506666660308838,
+        "Average Temperature": 2.0,
+        "Average Precipitation": 700.0,
+        "Soil": true
+    },
+    "Tundra": {
+        "Biome Name": "Tundra",
+        "Color R": 0.07500000298023224,
+        "Color G": 0.30000001192092896,
+        "Color B": 0.30000001192092896,
+        "Average Temperature": -10.0,
+        "Average Precipitation": 200.0,
+        "Soil": true
+    }
+}

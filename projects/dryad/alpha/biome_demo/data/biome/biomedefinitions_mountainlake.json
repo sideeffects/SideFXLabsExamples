@@ -1,0 +1,38 @@
+{
+    "Ice": {
+        "Biome Name": "Ice",
+        "Color R": 1.0,
+        "Color G": 1.0,
+        "Color B": 1.0,
+        "Average Temperature": -10.0,
+        "Average Precipitation": 715.0,
+        "Soil": true
+    },
+    "Tundra": {
+        "Biome Name": "Tundra",
+        "Color R": 0.3540000021457672,
+        "Color G": 1.0,
+        "Color B": 1.0,
+        "Average Temperature": 11.0,
+        "Average Precipitation": 715.0,
+        "Soil": true
+    },
+    "Coniferous_Forest": {
+        "Biome Name": "Coniferous_Forest",
+        "Color R": 0.0,
+        "Color G": 0.06599999964237213,
+        "Color B": 0.0,
+        "Average Temperature": 14.0,
+        "Average Precipitation": 715.0,
+        "Soil": true
+    },
+    "Deciduous_Forest": {
+        "Biome Name": "Deciduous_Forest",
+        "Color R": 1.0,
+        "Color G": 0.5,
+        "Color B": 0.0,
+        "Average Temperature": 17.0,
+        "Average Precipitation": 700.0,
+        "Soil": true
+    }
+}
