@@ -8,7 +8,7 @@ misc/plugins_src/dds/build_*
 .idea
 
 #ignore backup folder
-otls/backup
+**/backup
 
 #ignore osx hidden files
 .DS_Store
