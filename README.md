@@ -3,7 +3,7 @@
 
 This repository hosts the example files, demo projects, and other learning contents created for SideFX Labs.
 
-This allows us to reduce the download size for [the GitHub releases of SideFX Labs](https://github.com/sideeffects/SideFXLabs), where you can access the full suite of SideFX Labs tools.
+This allows us to reduce the download size for the [GitHub releases of SideFX Labs](https://github.com/sideeffects/SideFXLabs), where you can access the full suite of SideFX Labs tools.
 
 ## Important Note
 
