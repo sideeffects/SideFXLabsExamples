@@ -1,0 +1,74 @@
+{
+    "Sand": {
+        "Biome Name": "Sand",
+        "Color R": 0.0,
+        "Color G": 0.0,
+        "Color B": 0.0,
+        "Average Temperature": 0.0,
+        "Average Precipitation": 0.0,
+        "Soil": true
+    },
+    "Desert": {
+        "Biome Name": "Desert",
+        "Color R": 0.20000000298023224,
+        "Color G": 0.20000000298023224,
+        "Color B": 0.20000000298023224,
+        "Average Temperature": 15.0,
+        "Average Precipitation": 288.0,
+        "Soil": true
+    },
+    "Redrock": {
+        "Biome Name": "Redrock",
+        "Color R": 0.30000001192092896,
+        "Color G": 0.07500000298023224,
+        "Color B": 0.07500000298023224,
+        "Average Temperature": -10.0,
+        "Average Precipitation": 200.0,
+        "Soil": true
+    },
+    "Ore_Mountain": {
+        "Biome Name": "Ore_Mountain",
+        "Color R": 1.0,
+        "Color G": 1.0,
+        "Color B": 1.0,
+        "Average Temperature": -5.0,
+        "Average Precipitation": 900.0,
+        "Soil": true
+    },
+    "Savanna": {
+        "Biome Name": "Savanna",
+        "Color R": 1.0,
+        "Color G": 0.5,
+        "Color B": 0.0,
+        "Average Temperature": 25.0,
+        "Average Precipitation": 1200.0,
+        "Soil": true
+    },
+    "Deciduous_Forest": {
+        "Biome Name": "Deciduous_Forest",
+        "Color R": 0.07500000298023224,
+        "Color G": 0.30000001192092896,
+        "Color B": 0.07500000298023224,
+        "Average Temperature": 2.0,
+        "Average Precipitation": 700.0,
+        "Soil": true
+    },
+    "Ice": {
+        "Biome Name": "Ice",
+        "Color R": 1.0,
+        "Color G": 1.0,
+        "Color B": 1.0,
+        "Average Temperature": -25.0,
+        "Average Precipitation": 200.0,
+        "Soil": true
+    },
+    "Water": {
+        "Biome Name": "Water",
+        "Color R": 0.0,
+        "Color G": 0.0,
+        "Color B": 1.0,
+        "Average Temperature": 0.0,
+        "Average Precipitation": 0.0,
+        "Soil": false
+    }
+}
