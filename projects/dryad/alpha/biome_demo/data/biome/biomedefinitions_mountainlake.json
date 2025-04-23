@@ -8,6 +8,15 @@
         "Average Precipitation": 715.0,
         "Soil": true
     },
+    "Lake": {
+        "Biome Name": "Lake",
+        "Color R": 0.0,
+        "Color G": 0.5,
+        "Color B": 1.0,
+        "Average Temperature": 0.0,
+        "Average Precipitation": 0.0,
+        "Soil": false
+    },
     "Tundra": {
         "Biome Name": "Tundra",
         "Color R": 0.3540000021457672,
@@ -17,8 +26,8 @@
         "Average Precipitation": 715.0,
         "Soil": true
     },
-    "Coniferous_Forest": {
-        "Biome Name": "Coniferous_Forest",
+    "ConiferousForest": {
+        "Biome Name": "ConiferousForest",
         "Color R": 0.0,
         "Color G": 0.06599999964237213,
         "Color B": 0.0,
@@ -26,8 +35,8 @@
         "Average Precipitation": 715.0,
         "Soil": true
     },
-    "Deciduous_Forest": {
-        "Biome Name": "Deciduous_Forest",
+    "DeciduousForest": {
+        "Biome Name": "DeciduousForest",
         "Color R": 1.0,
         "Color G": 0.5,
         "Color B": 0.0,
