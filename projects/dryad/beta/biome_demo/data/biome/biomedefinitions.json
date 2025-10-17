@@ -1,0 +1,83 @@
+{
+    "Tropical_Rain_Forest": {
+        "Biome Name": "Tropical_Rain_Forest",
+        "Color R": 1.0,
+        "Color G": 0.0,
+        "Color B": 0.0,
+        "Average Temperature": 24.0,
+        "Average Precipitation": 3242.0,
+        "Soil": true
+    },
+    "Tropical_Seasonal_Forest_Savanna": {
+        "Biome Name": "Tropical_Seasonal_Forest_Savanna",
+        "Color R": 1.0,
+        "Color G": 0.5,
+        "Color B": 0.0,
+        "Average Temperature": 23.0,
+        "Average Precipitation": 1584.0,
+        "Soil": true
+    },
+    "Subtropical_Desert": {
+        "Biome Name": "Subtropical_Desert",
+        "Color R": 1.0,
+        "Color G": 1.0,
+        "Color B": 0.0,
+        "Average Temperature": 23.0,
+        "Average Precipitation": 359.0,
+        "Soil": true
+    },
+    "Temperate_Rain_Forest": {
+        "Biome Name": "Temperate_Rain_Forest",
+        "Color R": 0.5,
+        "Color G": 1.0,
+        "Color B": 0.0,
+        "Average Temperature": 13.0,
+        "Average Precipitation": 2449.0,
+        "Soil": true
+    },
+    "Temperate_Forest": {
+        "Biome Name": "Temperate_Forest",
+        "Color R": 0.0,
+        "Color G": 1.0,
+        "Color B": 0.0,
+        "Average Temperature": 10.0,
+        "Average Precipitation": 1472.0,
+        "Soil": true
+    },
+    "Woodland_Shrubland": {
+        "Biome Name": "Woodland_Shrubland",
+        "Color R": 0.0,
+        "Color G": 0.5,
+        "Color B": 0.25,
+        "Average Temperature": 9.0,
+        "Average Precipitation": 644.0,
+        "Soil": true
+    },
+    "Temperate_Grassland_Cold_Desert": {
+        "Biome Name": "Temperate_Grassland_Cold_Desert",
+        "Color R": 0.0,
+        "Color G": 0.5,
+        "Color B": 1.0,
+        "Average Temperature": 7.0,
+        "Average Precipitation": 194.0,
+        "Soil": true
+    },
+    "Boreal_Forest": {
+        "Biome Name": "Boreal_Forest",
+        "Color R": 0.07500000298023224,
+        "Color G": 0.07500000298023224,
+        "Color B": 0.30000001192092896,
+        "Average Temperature": -1.0,
+        "Average Precipitation": 980.0,
+        "Soil": true
+    },
+    "Tundra": {
+        "Biome Name": "Tundra",
+        "Color R": 1.0,
+        "Color G": 0.0,
+        "Color B": 1.0,
+        "Average Temperature": -9.0,
+        "Average Precipitation": 347.0,
+        "Soil": true
+    }
+}
