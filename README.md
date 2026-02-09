@@ -1,18 +1,18 @@
-![SideFXLabs logo](https://github.com/sideeffects/SideFXLabs/blob/Development/help/icons/sidefxlabs_full.png)
-# SideFX Labs Examples - Houdini 20.5
+![SideFXLabs logo](https://github.com/sideeffects/SideFXLabs/blob/Development/help/images/sidefxlabs_banner.png)
+# SideFX Labs Examples
 
 This repository hosts the example files, demo projects, and other learning contents created for SideFX Labs.
 
-This allows us to reduce the download size for the [GitHub releases of SideFX Labs](https://github.com/sideeffects/SideFXLabs), where you can access the full suite of SideFX Labs tools.
+This allows us to reduce the download size for the GitHub releases of [SideFX Labs](https://github.com/sideeffects/SideFXLabs), where you can access the full suite of SideFX Labs tools.
 
-## Important Note
+## SideFX Labs
 
-You do not necessarily need the contents of this repository just to use SideFX Labs.
-
-## What Is SideFX Labs
-
-SideFX Labs is a free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation. It is an all-inclusive toolset that spans the shelf, digital assets, custom desktops and scripts and more. The toolset is currently maintained by Mai Ao, Danicka Oglesby, Christos Stavridis, Mohamad Salame, and Bailey Hogan. It also receives a lot of contributions from the always active Houdini community. The toolset originated from the GameDevelopmentToolset, which was rebranded in the Houdini 18.0 release.
+SideFX Labs is a free, open-source, and artist-friendly toolset developed by SideFX. It contains hundreds of Houdini Digital Assets (HDAs), various Python modules, game engine plugins, Houdini UI extensions, custom VEX functions, and more. The tools are developed outside the regular Houdini development cycle which makes them more accessible for testing and feedback.
 
 ## Requirements
 
 You need to install [Houdini](https://www.sidefx.com) and [SideFX Labs](https://www.sidefx.com/products/sidefx-labs/) to use files hosted on this repository.
+
+## Important Note
+
+You do not necessarily need the contents of this repository to use SideFX Labs.
