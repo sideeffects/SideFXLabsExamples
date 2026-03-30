@@ -1,0 +1,37 @@
+#usda 1.0
+(
+    defaultPrim = "SM_Savanna_Tree_Dead_1"
+    framesPerSecond = 24
+    metersPerUnit = 1
+    timeCodesPerSecond = 24
+    upAxis = "Y"
+)
+
+def Xform "SM_Savanna_Tree_Dead_1" (
+    prepend apiSchemas = ["GeomModelAPI", "AssetPreviewsAPI"]
+    assetInfo = {
+        asset identifier = @./SM_Savanna_Tree_Dead_1.usd@
+        string name = "SM_Savanna_Tree_Dead_1"
+        dictionary previews = {
+            dictionary thumbnails = {
+                dictionary default = {
+                    asset defaultImage = @./thumbnail.png@
+                }
+            }
+        }
+    }
+    prepend inherits = </__class__SM_Savanna_Tree_Dead_1>
+    kind = "component"
+    prepend payload = @./payload.usdc@
+    variants = {
+        string mtl = "M_Vertex_Color"
+    }
+)
+{
+    float3[] extentsHint = [(3.4028235e38, 3.4028235e38, 3.4028235e38), (-3.4028235e38, -3.4028235e38, -3.4028235e38), (-0.4609042, -0.5, -1.4649938), (1.0527022, 2.0231194, 0.6721093), (-0.44516078, -0.5, -1.4617295), (1.0516012, 2.0067673, 0.6715079)]
+}
+
+class "__class__SM_Savanna_Tree_Dead_1"
+{
+}
+

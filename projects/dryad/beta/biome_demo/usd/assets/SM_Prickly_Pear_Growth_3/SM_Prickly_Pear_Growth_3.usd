@@ -1,0 +1,37 @@
+#usda 1.0
+(
+    defaultPrim = "SM_Prickly_Pear_Growth_3"
+    framesPerSecond = 24
+    metersPerUnit = 1
+    timeCodesPerSecond = 24
+    upAxis = "Y"
+)
+
+def Xform "SM_Prickly_Pear_Growth_3" (
+    prepend apiSchemas = ["GeomModelAPI", "AssetPreviewsAPI"]
+    assetInfo = {
+        asset identifier = @./SM_Prickly_Pear_Growth_3.usd@
+        string name = "SM_Prickly_Pear_Growth_3"
+        dictionary previews = {
+            dictionary thumbnails = {
+                dictionary default = {
+                    asset defaultImage = @./thumbnail.png@
+                }
+            }
+        }
+    }
+    prepend inherits = </__class__SM_Prickly_Pear_Growth_3>
+    kind = "component"
+    prepend payload = @./payload.usdc@
+    variants = {
+        string mtl = "M_Vertex_Color"
+    }
+)
+{
+    float3[] extentsHint = [(3.4028235e38, 3.4028235e38, 3.4028235e38), (-3.4028235e38, -3.4028235e38, -3.4028235e38), (-1.3789418, -4.8952695e-9, -2.2006826), (1.5036474, 2.1284251, 1.8527458), (-1.3831382, -4.8952695e-9, -2.20025), (1.5037429, 2.1353958, 1.8542798)]
+}
+
+class "__class__SM_Prickly_Pear_Growth_3"
+{
+}
+
