@@ -1,0 +1,37 @@
+#usda 1.0
+(
+    defaultPrim = "SM_Savanna_Bush_Growth_1"
+    framesPerSecond = 24
+    metersPerUnit = 1
+    timeCodesPerSecond = 24
+    upAxis = "Y"
+)
+
+def Xform "SM_Savanna_Bush_Growth_1" (
+    prepend apiSchemas = ["GeomModelAPI", "AssetPreviewsAPI"]
+    assetInfo = {
+        asset identifier = @./SM_Savanna_Bush_Growth_1.usd@
+        string name = "SM_Savanna_Bush_Growth_1"
+        dictionary previews = {
+            dictionary thumbnails = {
+                dictionary default = {
+                    asset defaultImage = @./thumbnail.png@
+                }
+            }
+        }
+    }
+    prepend inherits = </__class__SM_Savanna_Bush_Growth_1>
+    kind = "component"
+    prepend payload = @./payload.usdc@
+    variants = {
+        string mtl = "M_Vertex_Color"
+    }
+)
+{
+    float3[] extentsHint = [(3.4028235e38, 3.4028235e38, 3.4028235e38), (-3.4028235e38, -3.4028235e38, -3.4028235e38), (-1.5601207, -0.014684217, -1.3381759), (1.4252603, 1.1010354, 1.2709169), (-1.5601207, -0.013075204, -1.3381759), (1.4254422, 1.0949267, 1.264746)]
+}
+
+class "__class__SM_Savanna_Bush_Growth_1"
+{
+}
+

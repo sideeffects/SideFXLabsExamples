@@ -1,0 +1,37 @@
+#usda 1.0
+(
+    defaultPrim = "SM_Savanna_Long_Grass_Patch_Growth_1"
+    framesPerSecond = 24
+    metersPerUnit = 1
+    timeCodesPerSecond = 24
+    upAxis = "Y"
+)
+
+def Xform "SM_Savanna_Long_Grass_Patch_Growth_1" (
+    prepend apiSchemas = ["GeomModelAPI", "AssetPreviewsAPI"]
+    assetInfo = {
+        asset identifier = @./SM_Savanna_Long_Grass_Patch_Growth_1.usd@
+        string name = "SM_Savanna_Long_Grass_Patch_Growth_1"
+        dictionary previews = {
+            dictionary thumbnails = {
+                dictionary default = {
+                    asset defaultImage = @./thumbnail.png@
+                }
+            }
+        }
+    }
+    prepend inherits = </__class__SM_Savanna_Long_Grass_Patch_Growth_1>
+    kind = "component"
+    prepend payload = @./payload.usdc@
+    variants = {
+        string mtl = "M_Vertex_Color"
+    }
+)
+{
+    float3[] extentsHint = [(3.4028235e38, 3.4028235e38, 3.4028235e38), (-3.4028235e38, -3.4028235e38, -3.4028235e38), (-3.3034768, -0.008240104, -2.94144), (3.3405027, 1.1651722, 3.3819158), (-3.2947388, -0.004578768, -2.8987641), (3.3373947, 1.1610931, 3.3756046)]
+}
+
+class "__class__SM_Savanna_Long_Grass_Patch_Growth_1"
+{
+}
+
