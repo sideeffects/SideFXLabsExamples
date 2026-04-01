@@ -71,7 +71,7 @@ Build/*/**
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
+**/DerivedDataCache/*
 
 
 #ignore python compiled files
